@@ -68,10 +68,10 @@ I really enjoy  everything related to technology, programming, and I'm passionat
 <!-- POSTS:START <li><a href='url'>📦 Tittle</a><p>📝 Content</p></li> POSTS:END -->
 
 ## Links
-[<img src="https://cloud.phixilabs.com/storage/manual-de-marcas/github/icon-web.svg" height="32" />](https://phixilabs.com/)  
-[<img src="https://cloud.phixilabs.com/storage/manual-de-marcas/github/icon-x.svg" height="32" />](https://x.com/phixilabs)  
-[<img src="https://cloud.phixilabs.com/storage/manual-de-marcas/github/icon-in.svg" height="32" />](https://www.linkedin.com/company/phixi-labs/)  
-[<img src="https://cloud.phixilabs.com/storage/manual-de-marcas/github/icon-ig.svg" height="32" />](https://www.instagram.com/phixilabs)
+[<img src="https://cloud.phixilabs.com/storage/github/icon-web.svg" height="32" />](https://phixilabs.com/)  
+[<img src="https://cloud.phixilabs.com/storage/github/icon-x.svg" height="32" />](https://x.com/phixilabs)  
+[<img src="https://cloud.phixilabs.com/storage/github/icon-in.svg" height="32" />](https://www.linkedin.com/company/phixi-labs/)  
+[<img src="https://cloud.phixilabs.com/storage/github/icon-ig.svg" height="32" />](https://www.instagram.com/phixilabs)
 
 ## Contact
-[<img src="https://cloud.phixilabs.com/storage/manual-de-marcas/github/icon-mail.svg" height="32" />](mailto:phixi.labs@gmail.com)
+[<img src="https://cloud.phixilabs.com/storage/github/icon-mail.svg" height="32" />](mailto:phixi.labs@gmail.com)
