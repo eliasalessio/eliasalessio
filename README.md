@@ -1,17 +1,17 @@
 # Welcome, I'm Elias Alessio👋
 
 ## About Me
-👨‍💻 I'm a full-stack developer and tech enthusiast, passionate about building digital products and solving problems through technology.
+👨‍💻 I'm a full-stack developer and tech enthusiast, passionate about building digital products and solving problems through technology.  
 </br>
-🚀 Founder of [Phixi Labs](https://phixilabs.com), where I help businesses grow through web and mobile development.
+🚀 Founder of [Phixi Labs](https://phixilabs.com), where I help businesses grow through web and mobile development.  
+</br></br>
+🌱 I'm always learning — whether it's new frameworks, tools, or ways to work smarter.  
 </br>
-🌱 I'm always learning — whether it's new frameworks, tools, or ways to work smarter.
+🤝 I value teamwork, collaboration, and clear communication.  
 </br>
-🤝 I value teamwork, collaboration, and clear communication.
-</br>
-🧠 Outside of coding, I'm into personal development, productivity, and exploring how tech can make life better.
-</br>
-I really enjoy  everything related to technology, programming, and I'm passionate about web development.
+🧠 Outside of coding, I'm into personal development, productivity, and exploring how tech can make life better.  
+</br></br>
+I really enjoy  everything related to technology, programming, and I'm passionate about web development.  
 
 ## Technologies
 
