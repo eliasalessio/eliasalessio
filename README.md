@@ -66,7 +66,7 @@ I really enjoy  everything related to technology, programming, and I'm passionat
 <!-- POSTS:START <li><a href='url'>📦 Tittle</a><p>📝 Content</p></li> POSTS:END -->
 
 ## Links:
-[![Website](https://cloud.phixilabs.com/storage/manual-de-marcas/github/icon-web.svg)](https://phixilabs.com/)
+[![Website]<img src="https://cloud.phixilabs.com/storage/manual-de-marcas/github/icon-web.svg" width="24"/>](https://phixilabs.com/)
 [![Twitter](https://cloud.phixilabs.com/storage/manual-de-marcas/github/icon-x.svg)](https://x.com/phixilabs)
 [![LinkedIn](https://cloud.phixilabs.com/storage/manual-de-marcas/github/icon-in.svg)](https://www.linkedin.com/company/phixi-labs/)
 [![Instagram](https://cloud.phixilabs.com/storage/manual-de-marcas/github/icon-ig.svg)](https://www.instagram.com/phixilabs)
