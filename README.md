@@ -1,17 +1,19 @@
 # Welcome, I'm Elias Alessio👋
 
 ## About Me
-
+👨‍💻 I'm a full-stack developer and tech enthusiast, passionate about building digital products and solving problems through technology.
+</br>
+🚀 Founder of [Phixi Labs](https://phixilabs.com), where I help businesses grow through web and mobile development.
+</br>
+🌱 I'm always learning — whether it's new frameworks, tools, or ways to work smarter.
+</br>
+🤝 I value teamwork, collaboration, and clear communication.
+</br>
+🧠 Outside of coding, I'm into personal development, productivity, and exploring how tech can make life better.
+</br>
 I really enjoy  everything related to technology, programming, and I'm passionate about web development.
 
-🌿 Trying to become a better person every day.
-</br>
-⌛ I enjoy personal development and productivity.
-</br>
-⭐ I enjoy working in teams and collaborating with other people.
-</br>
-
-## Technologies:
+## Technologies
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -65,11 +67,11 @@ I really enjoy  everything related to technology, programming, and I'm passionat
 ## My Latest Blog Post
 <!-- POSTS:START <li><a href='url'>📦 Tittle</a><p>📝 Content</p></li> POSTS:END -->
 
-## Links:
+## Links
 [<img src="https://cloud.phixilabs.com/storage/manual-de-marcas/github/icon-web.svg" height="32" />](https://phixilabs.com/)  
 [<img src="https://cloud.phixilabs.com/storage/manual-de-marcas/github/icon-x.svg" height="32" />](https://x.com/phixilabs)  
 [<img src="https://cloud.phixilabs.com/storage/manual-de-marcas/github/icon-in.svg" height="32" />](https://www.linkedin.com/company/phixi-labs/)  
 [<img src="https://cloud.phixilabs.com/storage/manual-de-marcas/github/icon-ig.svg" height="32" />](https://www.instagram.com/phixilabs)
 
-## Contact:
+## Contact
 [<img src="https://cloud.phixilabs.com/storage/manual-de-marcas/github/icon-mail.svg" height="32" />](mailto:phixi.labs@gmail.com)
