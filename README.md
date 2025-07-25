@@ -77,9 +77,9 @@ I really enjoy  everything related to technology, programming, and I'm passionat
   <img src="https://skillicons.dev/icons?i=photoshop" height="40" alt="photoshop logo"  />
   <img width="12" />
 </div>
-
+<!--
 ## My Latest Blog Post
-<!-- POSTS:START <li><a href='url'>📦 Tittle</a><p>📝 Content</p></li> POSTS:END -->
+ POSTS:START <li><a href='url'>📦 Tittle</a><p>📝 Content</p></li> POSTS:END -->
 
 ## Links
 [<img src="https://cloud.phixilabs.com/storage/github/icon-web.svg" height="32" />](https://phixilabs.com/)  
