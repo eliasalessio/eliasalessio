@@ -79,13 +79,13 @@ I really enjoy  everything related to technology, programming, and I'm passionat
 </div>
 
 ## My Latest Blog Post
- POSTS:START <li><a href='[url](https://phixilabs.com/ar/blog/por-que-decidi-crear-phixi-labs-el-comienzo-de-un-estudio-digital/)'>📦 Por qué decidí crear Phixi Labs: el comienzo de un estudio digital</a><p>🚀 Por qué nació Phixi Labs Crear Phixi Labs no fue solo una decisión profesional, sino también personal. Desde hace años me apasiona la tecnología, el diseño y todo lo relacionado con el desarrollo web, desarrollo de aplicaciones moviles y software. </p></li> POSTS:END
+POSTS:START <li><a href='[url](https://phixilabs.com/ar/blog/por-que-decidi-crear-phixi-labs-el-comienzo-de-un-estudio-digital/)'>📦 Por qué decidí crear Phixi Labs: el comienzo de un estudio digital</a><p>🚀 Por qué nació Phixi Labs Crear Phixi Labs no fue solo una decisión profesional, sino también personal. Desde hace años me apasiona la tecnología, el diseño y todo lo relacionado con el desarrollo web, desarrollo de aplicaciones moviles y software. </p></li> POSTS:END
 
 ## Links
-[<img src="https://cloud.phixilabs.com/storage/github/icon-web.svg" height="32" />](https://phixilabs.com/)  
-[<img src="https://cloud.phixilabs.com/storage/github/icon-x.svg" height="32" />](https://x.com/phixilabs)  
-[<img src="https://cloud.phixilabs.com/storage/github/icon-in.svg" height="32" />](https://www.linkedin.com/company/phixi-labs/)  
-[<img src="https://cloud.phixilabs.com/storage/github/icon-ig.svg" height="32" />](https://www.instagram.com/phixilabs)
+[<img src="[https://cloud.phixilabs.com/storage/github/icon-web.svg](https://cloud.phixilabs.com/storage/github/icon-web-2.svg)" height="32" />](https://phixilabs.com/)  
+[<img src="[https://cloud.phixilabs.com/storage/github/icon-x.svg](https://cloud.phixilabs.com/storage/github/icon-x-2.svg)" height="32" />](https://x.com/phixilabs)  
+[<img src="[https://cloud.phixilabs.com/storage/github/icon-in.svg](https://cloud.phixilabs.com/storage/github/icon-in-2.svg)" height="32" />](https://www.linkedin.com/company/phixi-labs/)  
+[<img src="[https://cloud.phixilabs.com/storage/github/icon-ig.svg](https://cloud.phixilabs.com/storage/github/icon-ig-2.svg)" height="32" />](https://www.instagram.com/phixilabs)
 
 ## Contact
-[<img src="https://cloud.phixilabs.com/storage/github/icon-mail.svg" height="32" />](mailto:phixi.labs@gmail.com)
+[<img src="[https://cloud.phixilabs.com/storage/github/icon-mail.svg](https://cloud.phixilabs.com/storage/github/icon-mail-2.svg)" height="32" />](mailto:phixi.labs@gmail.com)
