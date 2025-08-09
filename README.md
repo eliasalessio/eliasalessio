@@ -77,9 +77,9 @@ I really enjoy  everything related to technology, programming, and I'm passionat
   <img src="https://skillicons.dev/icons?i=photoshop" height="40" alt="photoshop logo"  />
   <img width="12" />
 </div>
-<!--
+
 ## My Latest Blog Post
- POSTS:START <li><a href='url'>📦 Tittle</a><p>📝 Content</p></li> POSTS:END -->
+ POSTS:START <li><a href='[url](https://phixilabs.com/ar/blog/por-que-decidi-crear-phixi-labs-el-comienzo-de-un-estudio-digital/)'>📦 Por qué decidí crear Phixi Labs: el comienzo de un estudio digital</a><p>🚀 Por qué nació Phixi Labs Crear Phixi Labs no fue solo una decisión profesional, sino también personal. Desde hace años me apasiona la tecnología, el diseño y todo lo relacionado con el desarrollo web, desarrollo de aplicaciones moviles y software. </p></li> POSTS:END
 
 ## Links
 [<img src="https://cloud.phixilabs.com/storage/github/icon-web.svg" height="32" />](https://phixilabs.com/)  
