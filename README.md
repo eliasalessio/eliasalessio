@@ -25,7 +25,7 @@ I really enjoy  everything related to technology, programming, and I'm passionat
 <!-- POSTS:END -->
 
 ## Links
-[<img src="https://phixicloud.com/index.php/s/5k8CAJKKyWZMp5C/preview" height="32" />](https://phixilabs.com/)  
+[<img src="https://phixicloud.com/public.php/dav/files/5k8CAJKKyWZMp5C/?accept=zip" height="32" />](https://phixilabs.com/)  
 [<img src="https://cloud.phixilabs.com/storage/github/icon-x-2.svg" height="32" />](https://www.instagram.com/phixilabs)  
 [<img src="https://cloud.phixilabs.com/storage/github/icon-in-2.svg" height="32" />](https://www.linkedin.com/company/phixi-labs/)  
 [<img src="https://cloud.phixilabs.com/storage/github/icon-ig-2.svg" height="32" />](https://x.com/phixilabs)
