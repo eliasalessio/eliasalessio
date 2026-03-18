@@ -20,8 +20,8 @@ I really enjoy  everything related to technology, programming, and I'm passionat
 
 ## My Latest Blog Post
 <!-- POSTS:START -->
-- [📦 Por qué decidí crear Phixi Labs: el comienzo de un estudio digital](https://phixilabs.com/es/blog/por-que-decidi-crear-phixi-labs-el-comienzo-de-un-estudio-digital/)  
-  🚀 Por qué nació Phixi Labs. Crear Phixi Labs no fue solo una decisión profesional, sino también personal. Desde hace años me apasiona la tecnología, el diseño y todo lo relacionado con el desarrollo web, desarrollo de aplicaciones móviles y software.
+- [⚡ Nuevo proyecto en desarrollo: Triviora – Quiz Game](https://phixilabs.com/es/blog/%e2%9a%a1-nuevo-proyecto-en-desarrollo-triviora-quiz-game/)  
+  🚀 En Phixi Labs estamos trabajando en un nuevo juego móvil: Triviora – Quiz Game, una experiencia moderna de trivia con modos únicos, estadísticas, desafíos y una interfaz totalmente renovada.
 <!-- POSTS:END -->
 <!-- POSTS:START -->
 - [📦 Por qué decidí crear Phixi Labs: el comienzo de un estudio digital](https://phixilabs.com/es/blog/por-que-decidi-crear-phixi-labs-el-comienzo-de-un-estudio-digital/)  
