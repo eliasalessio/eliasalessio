@@ -1,38 +1,70 @@
-# Welcome, I'm Elias Alessio👋
+# 👋 Hi, I'm Elias Alessio
 
-## About Me
-👨‍💻 I'm a full-stack developer and tech enthusiast, passionate about building digital products and solving problems through technology.  
-</br>
-🚀 Founder of [Phixi Labs](https://phixilabs.com), where I help businesses grow through web and mobile development.  
-</br></br>
-🌱 I'm always learning — whether it's new frameworks, tools, or ways to work smarter.  
-</br>
-🤝 I value teamwork, collaboration, and clear communication.  
-</br>
-🧠 Outside of coding, I'm into personal development, productivity, and exploring how tech can make life better.  
-</br></br>
-I really enjoy  everything related to technology, programming, and I'm passionate about web development.  
+## 🚀 Fullstack Developer | Web, Mobile & Cloud
 
-## Technologies
+---
+
+## 🧠 About Me
+
+👨‍💻 I'm a Fullstack Developer with 7+ years of experience building scalable web, mobile and cloud-based solutions.  
+
+🚀 Founder of [Phixi Labs](https://phixilabs.com), where I help businesses grow through custom development, eCommerce platforms and digital solutions.  
+
+🔧 I specialize in backend development (PHP, Laravel, Node.js) and advanced WordPress, along with API integrations and system automation.  
+
+📱 I also build cross-platform mobile applications using Flutter, connected to scalable backend systems.  
+
+☁️ Experience working with cloud infrastructure (AWS, GCP, Azure), VPS environments and performance optimization.  
+
+⚙️ Currently learning and improving my DevOps skills (CI/CD, Docker, Kubernetes, automation workflows).  
+
+🤝 I enjoy working in teams, solving real-world problems and building efficient, business-oriented solutions.  
+
+---
+
+## ⚡ Tech Stack
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,js,git,github,nodejs,python,mysql,sqlite,docker,flutter,dart,androidstudio,apple,wordpress,laravel,firebase,aws,gcp,cloudflare,vscode,sublime,linux,ubuntu,windows,powershell,bash,illustrator,photoshop" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,js,git,github,nodejs,python,mysql,sqlite,docker,flutter,dart,androidstudio,apple,wordpress,laravel,firebase,aws,gcp,cloudflare,vscode,linux,ubuntu,windows,powershell,bash,illustrator,photoshop" />
 </div>
 
-## My Latest Blog Post
+---
+
+## 📰 Latest Blog Posts
+
 <!-- POSTS:START -->
 - [⚡ Nuevo proyecto en desarrollo: Triviora – Quiz Game](https://phixilabs.com/es/blog/%e2%9a%a1-nuevo-proyecto-en-desarrollo-triviora-quiz-game/)  
-  🚀 En Phixi Labs estamos trabajando en un nuevo juego móvil: Triviora – Quiz Game, una experiencia moderna de trivia con modos únicos, estadísticas, desafíos y una interfaz totalmente renovada.
-<!-- POSTS:END -->
-<!-- POSTS:START -->
-- [📦 Por qué decidí crear Phixi Labs: el comienzo de un estudio digital](https://phixilabs.com/es/blog/por-que-decidi-crear-phixi-labs-el-comienzo-de-un-estudio-digital/)  
-  🚀 Por qué nació Phixi Labs. Crear Phixi Labs no fue solo una decisión profesional, sino también personal. Desde hace años me apasiona la tecnología, el diseño y todo lo relacionado con el desarrollo web, desarrollo de aplicaciones móviles y software.
+  🚀 En Phixi Labs estamos trabajando en un nuevo juego móvil con modos únicos, estadísticas y una experiencia moderna.
+
+- [📦 Por qué decidí crear Phixi Labs](https://phixilabs.com/es/blog/por-que-decidi-crear-phixi-labs-el-comienzo-de-un-estudio-digital/)  
+  🚀 Historia sobre la creación de Phixi Labs y el enfoque en desarrollo web, mobile y software.
 <!-- POSTS:END -->
 
-## Links
-[<img src="https://portal.phixilabs.com/archivos/GitHub/icon-web.svg" height="32" />](https://phixilabs.com/)  
-[<img src="https://portal.phixilabs.com/archivos/GitHub/icon-x.svg" height="32" />](https://www.instagram.com/phixilabs)  
-[<img src="https://portal.phixilabs.com/archivos/GitHub/icon-in.svg" height="32" />](https://www.linkedin.com/company/phixi-labs/)  
-[<img src="https://portal.phixilabs.com/archivos/GitHub/icon-ig.svg" height="32" />](https://x.com/phixilabs)
+---
 
-## Contact
-[<img src="https://portal.phixilabs.com/archivos/GitHub/icon-mail.svg" height="32" />](mailto:phixi.labs@gmail.com)
+## 🌐 Links
+
+<p align="center">
+  <a href="https://phixilabs.com/">
+    <img src="https://portal.phixilabs.com/archivos/GitHub/icon-web.svg" height="32" />
+  </a>
+  <a href="https://www.instagram.com/phixilabs">
+    <img src="https://portal.phixilabs.com/archivos/GitHub/icon-x.svg" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/company/phixi-labs/">
+    <img src="https://portal.phixilabs.com/archivos/GitHub/icon-in.svg" height="32" />
+  </a>
+  <a href="https://x.com/phixilabs">
+    <img src="https://portal.phixilabs.com/archivos/GitHub/icon-ig.svg" height="32" />
+  </a>
+</p>
+
+---
+
+## 📩 Contact
+
+<p align="center">
+  <a href="mailto:phixi.labs@gmail.com">
+    <img src="https://portal.phixilabs.com/archivos/GitHub/icon-mail.svg" height="32" />
+  </a>
+</p>
