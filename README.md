@@ -30,6 +30,17 @@
 
 ---
 
+
+## 📂 Latest Works
+
+<!-- POSTS:START -->
+- [🎵 Beatly](https://portal.phixilabs.com/apps/beatly/)  
+  📱 Libera todo el poder de la música: reproduce, descubre y disfruta sin límites, todo en una sola app.
+  
+<!-- POSTS:END -->
+
+---
+
 ## 📰 Latest Blog Posts
 
 <!-- POSTS:START -->
