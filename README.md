@@ -31,7 +31,7 @@
 ---
 
 
-## 📂 Latest Works
+## ⚙️ Latest Works
 
 <!-- POSTS:START -->
 - [🎵 Beatly](https://portal.phixilabs.com/apps/beatly/)  
@@ -44,9 +44,6 @@
 ## 📰 Latest Blog Posts
 
 <!-- POSTS:START -->
-- [📱 Beatly](https://portal.phixilabs.com/apps/beatly/)  
-  🚀 Libera todo el poder de la música: reproduce, descubre y disfruta sin límites, todo en una sola app.
-
 - [⚡ Nuevo proyecto en desarrollo: Triviora – Quiz Game](https://phixilabs.com/es/blog/%e2%9a%a1-nuevo-proyecto-en-desarrollo-triviora-quiz-game/)  
   🚀 En Phixi Labs estamos trabajando en un nuevo juego móvil con modos únicos, estadísticas y una experiencia moderna.
 
