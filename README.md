@@ -34,8 +34,8 @@
 ## ⚙️ Latest Works
 
 <!-- POSTS:START -->
-- [🎵 Beatly](https://portal.phixilabs.com/apps/beatly/)  
-  📱 Libera todo el poder de la música: reproduce, descubre y disfruta sin límites, todo en una sola app.
+- [🎵 Beatly](https://beatly.phixilabs.com/)  
+  📱 Unlock the full power of music: play, discover, and enjoy without limits—all in one app.
   
 <!-- POSTS:END -->
 
@@ -44,11 +44,11 @@
 ## 📰 Latest Blog Posts
 
 <!-- POSTS:START -->
-- [⚡ Nuevo proyecto en desarrollo: Triviora – Quiz Game](https://phixilabs.com/es/blog/%e2%9a%a1-nuevo-proyecto-en-desarrollo-triviora-quiz-game/)  
-  🚀 En Phixi Labs estamos trabajando en un nuevo juego móvil con modos únicos, estadísticas y una experiencia moderna.
+- [⚡ New project in development: Triviora – Quiz Game](https://phixilabs.com/es/blog/%e2%9a%a1-nuevo-proyecto-en-desarrollo-triviora-quiz-game/)  
+  🚀 At Phixi Labs, we are working on a new mobile game featuring unique modes, statistics, and a modern experience.
 
-- [📦 Por qué decidí crear Phixi Labs](https://phixilabs.com/es/blog/por-que-decidi-crear-phixi-labs-el-comienzo-de-un-estudio-digital/)  
-  🚀 Historia sobre la creación de Phixi Labs y el enfoque en desarrollo web, mobile y software.
+- [📦 Why I decided to create Phixi Labs](https://phixilabs.com/es/blog/por-que-decidi-crear-phixi-labs-el-comienzo-de-un-estudio-digital/)  
+  🚀 The story behind the creation of Phixi Labs and its focus on web, mobile, and software development.
 <!-- POSTS:END -->
 
 ---
